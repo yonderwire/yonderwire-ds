@@ -1,3 +1,3 @@
 # yonderwire-ds
 
-1. `ds-app/`: react + vite ds app for testing
+1. `ds-app/`: vite + plain javascript app
